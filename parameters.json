@@ -1,0 +1,13 @@
+{
+  "width": 50,
+  "height": 30,
+  "startEnergy": 50,
+  "moveEnergy": 1,
+  "plantEnergy": 10,
+  "animalAmount": 60,
+  "plantsAmount": 200,
+  "jungleRatio": 0.2,
+  "sleepingTime": 70,
+  "dailyJungleGrow": 5,
+  "dailySavannahGrow": 5
+}
